@@ -1,38 +1,41 @@
-### Description
+# Portfolio V2
 
-A simple portfolio template for developer/designers built with React. 
+Welcome to my React Developer Portfolio!
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+## About
+This project showcases my skills and experience as a React developer. It includes examples of my work, technical skills, and contact information. Built with modern React, it demonstrates best practices in component architecture, state management, and UI/UX design.
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+## Features
+- Responsive design
+- Theming and dark mode toggle
+- Animated cursor and transitions
+- Modular component structure
+- Routing with React Router
+- Integration with EmailJS for contact forms
+- Use of React Hooks and custom hooks
 
-### Features
+## Technologies Used
+- React
+- React Router
+- Bootstrap
+- EmailJS
+- React Icons
+- CSS Modules
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+## Getting Started
+To run this project locally:
 
-### Setup
+```bash
+yarn install
+yarn start
+```
 
-Get the code
+## Folder Structure
+- `src/` - Main source code
+- `public/` - Static assets
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
+## Contact
+Feel free to reach out via the contact form in the app or connect with me on LinkedIn.
 
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+---
+_Created by Godwin V, React Developer_
