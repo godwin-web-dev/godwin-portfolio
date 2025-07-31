@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "workspaces": [
+    "portfolio-v1",
+    "portfolio-v2"
+  ]
+}
